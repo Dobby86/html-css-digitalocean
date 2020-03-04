@@ -57,3 +57,21 @@
 
 }
 /* ----section2-------- */
+.section2 {
+    background-color: #f3f5f9;
+}
+#inno {
+    text-align: center;
+    font-size: 15px;
+    color: grey;
+}
+
+#see {
+    text-align: center;
+    font-size: 15px;
+    color: blue;
+}
+.loghini img {
+    height: 100px;
+    width: 100%;
+}

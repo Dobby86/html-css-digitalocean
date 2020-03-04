@@ -1,3 +1,9 @@
+/* -------------------------------- */
+[class*="col-"] {
+  float: left;
+  /* border:1px solid black; */
+}
+
 #lista1 {
     width: 500px;
     padding-top: 35px;
@@ -28,7 +34,7 @@
 /* ---------section1-------- */
 .pesciblu {
     background-image: url(img/bg-home-1-d54581d7.jpg);
-    height: 600px;
+    height: 650px;
 }
 .striscia1 {
     margin-top: 200px;
@@ -49,13 +55,51 @@
     text-align: center;
 
 }
+.account {
+    text-align: center;
+}
 #create1 {
     background-color: blue;
-    width: 300px;
-    margin-left: 180px;
+    width: 400px;
     font-size: 20px;
 
 }
+.button1 {
+    text-align: center;
+}
+.button2 {
+    text-align: center;
+}
+#button1 {
+    border-radius: 3px;
+    background-color: #f2f8ff;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+
+}
+#button2 {
+    border-radius: 3px;
+    background-color: #f2f8ff;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+}
+#by {
+    font-size: 12px;
+}
+#by {
+
+}
+#te{
+    color: lightblue;
+}
+.terms {
+    text-align: center;
+}
+
+
+
 /* ----section2-------- */
 .section2 {
     background-color: #f3f5f9;
@@ -86,6 +130,45 @@
     font-size: 40px;
 }
 #our {
+    text-align: center;
+    font-size:20px;
+}
+.quattro {
+    font-size: 20px;
+}
+.inlinea {
+    border-left: 1px solid black;
+}
+#gg {
+    width: 500px;
+    padding-top: 35px;
+    display: block;
+    list-style-type: none;
+    font-size: 17px;
+    color: black;
+
+}
+#gg>li {
+    padding: 5px;
+    margin:5px;
+    color: black;
+    height:50px;
+
+}
+
+/* section4444444444444------------ */
+.section4 {
+    height: 700px;
+    background-color: #f2f8ff;
+}
+.strisciata1 {
+    text-align: center;
+}
+#desi {
+    text-align: center;
+    font-size: 40px;
+}
+#bui {
     text-align: center;
     font-size:20px;
 }

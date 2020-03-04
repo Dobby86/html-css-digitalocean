@@ -59,11 +59,13 @@
 /* ----section2-------- */
 .section2 {
     background-color: #f3f5f9;
+    height: 260px;
 }
 #inno {
     text-align: center;
     font-size: 15px;
     color: grey;
+
 }
 
 #see {
@@ -74,4 +76,16 @@
 .loghini img {
     height: 100px;
     width: 100%;
+}
+/* -------section 3333333 */
+.section3 {
+    height: 500px;
+}
+#deplo {
+    text-align: center;
+    font-size: 40px;
+}
+#our {
+    text-align: center;
+    font-size:20px;
 }

@@ -158,10 +158,10 @@
 
 /* section4444444444444------------ */
 .section4 {
-    height: 700px;
+    height: 750px;
     background-color: #f2f8ff;
 }
-.strisciata1 {
+.strisciatasopra {
     text-align: center;
 }
 #desi {
@@ -171,4 +171,34 @@
 #bui {
     text-align: center;
     font-size:20px;
+}
+.strisciatacentrale {
+    margin-top: 50px;
+}
+#fotogrande {
+    height: 400px;
+    width: 100%;
+}
+#fresx {
+    margin-top: 200px;
+    font-size: 30px;
+    color: grey;
+}
+#fredx {
+    margin-top: 200px;
+    font-size: 30px;
+}
+.strisciatasotto {
+    text-align: center;
+    /* margin-top: 150px; */
+}
+#use {
+    font-size: 17px;
+}
+.puntini {
+    text-align: center;
+}
+.puntini i {
+    color: blue;
+    font-size:  10px ;
 }

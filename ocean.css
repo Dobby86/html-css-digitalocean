@@ -33,14 +33,14 @@
 }
 /* ///////---------hamburger-mode */
 #va{
-     margin-left:850px;
+     /* margin-left:850px; */
     background-color: rgba(255, 0, 0, 0.5);
     color: blue;
 
 }
 
 .hamburger {
-     margin-left: -600px;
+     /* margin-left: -600px; */
      height: 50px;
 
 }
@@ -50,8 +50,8 @@
 #logo2 {
     height: 40px;
     width: 100%;
-    margin-bottom: -60px;
-    margin-top:40px;
+    /* margin-bottom: -60px;
+    margin-top:40px; */
 }
 
 /* ---------section1-------- */
@@ -282,11 +282,24 @@
         display: none;
     }
 }
-@media screen and (max-width: 992px)  {
+@media screen and (max-width: 1200px)  {
     #nohamburger {
         display: none;
     }
 }
+
+@media screen and (min-width:992px) and (max-width: 1200px)  {
+#button1,#button2 {
+    border-radius: 3px;
+    background-color: #f2f8ff;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+}
+
 .section7 {
    /* height: 800px; */
    background-color: #f3f5f9;

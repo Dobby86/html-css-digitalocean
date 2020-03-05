@@ -220,8 +220,8 @@
 /* ------section666666666666666666666-- */
 
 .section6 {
-    background-color: rgb(0,73,255);
-    height: 400px;
+    background-color:rgb(3,27,78);
+    height: 500px;
 }
 .service {
    text-align: center;
@@ -229,4 +229,61 @@
 }
 #serv {
     color: white;
+}
+.citta {
+    margin-top: 80px;
+}
+
+.citta i,a {
+    color:rgb(13,162,190);
+}
+.citta th {
+    color:white;
+}
+.citta td {
+    color:#f3f5f9;
+}
+/* section.......77777777777777 */
+
+.section7 {
+   height: 800px;
+   background-color: #f3f5f9;
+}
+.strisciatasopra {
+    text-align: center;
+}
+#desi {
+    text-align: center;
+    font-size: 40px;
+}
+#bui {
+    text-align: center;
+    font-size:20px;
+}
+.strisciatacentrale {
+    margin-top: 50px;
+}
+#fotoultima {
+    height: 400px;
+    width: 100%;
+}
+#fresx {
+    margin-top: 200px;
+    font-size: 30px;
+    color: grey;
+}
+#fredx {
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+#use {
+    font-size: 17px;
+}
+.puntini {
+    text-align: center;
+}
+.puntini i {
+    color: blue;
+    font-size:  10px ;
 }

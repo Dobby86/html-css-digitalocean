@@ -55,6 +55,7 @@
     text-align: center;
 
 }
+
 .account {
     text-align: center;
 }
@@ -215,4 +216,17 @@
 }
 #built {
    font-size: 40px;
+}
+/* ------section666666666666666666666-- */
+
+.section6 {
+    background-color: rgb(0,73,255);
+    height: 400px;
+}
+.service {
+   text-align: center;
+   margin-top: 80px;
+}
+#serv {
+    color: white;
 }

@@ -21,7 +21,7 @@
     display: block;
     list-style-type: none;
     font-size: 15px;
-    color: black;
+    color: #647392;#647392;
 
 }
 .logo {
@@ -33,7 +33,7 @@
     color: white;
     padding: 5px;
     margin:5px;
-    color: black;
+    color:#647392;
 
 }
 #lista11> a {
@@ -41,11 +41,11 @@
     color: white;
     padding: 5px;
     margin:5px;
-    color: black;
+    color: #647392;
 
 }
 #lista11 a {
-    color:black;
+    color:#647392;
 }
 
 
@@ -129,10 +129,12 @@
 .welc {
     font-size: 50px;
     color: white;
+    font-family: 'Lora', serif;
 }
 .we {
     font-size: 22px;
     color: #f2f8ff;
+    font-family: 'Lora', serif;
 }
 
 .account {
@@ -194,6 +196,9 @@
     margin-top: 10px;
 }
 
+#deploy {
+    font-family: 'Lora', serif;
+}
 
 
 /* ----section2-------- */
@@ -227,11 +232,13 @@
 #deplo {
     text-align: center;
     font-size: 40px;
+    font-family: 'Lora', serif;
 }
 #our {
     text-align: center;
     font-size:20px;
     color: #647392;
+    font-family: 'Lora', serif;
 }
 .quattro {
     font-size: 20px;
@@ -260,6 +267,7 @@
 }
 .ppp {
     color: #647392;
+    font-family: 'Lora', serif;
 }
 
 /* section4444444444444------------ */
@@ -273,11 +281,13 @@
 #desi {
     text-align: center;
     font-size: 40px;
+    font-family: 'Lora', serif;
 }
 #bui {
     text-align: center;
     font-size:20px;
     color: #647392;
+    font-family: 'Lora', serif;
 }
 .strisciatacentrale {
     margin-top: 50px;
@@ -302,6 +312,7 @@
 #use {
     font-size: 17px;
     color: #647392;
+    font-family: 'Lora', serif;
 }
 .puntini {
     text-align: center;
@@ -320,6 +331,7 @@
 .built {
     text-align: center;
     margin-top: 80px;
+    font-family: 'Lora', serif;
 
 }
 #built {
@@ -338,6 +350,7 @@
 
 #serv {
     color: white;
+    font-family: 'Lora', serif;
 }
 .citta {
     margin-top: 80px;
@@ -402,10 +415,12 @@
 #desi {
     text-align: center;
     font-size: 40px;
+    font-family: 'Lora', serif;
 }
 #bui {
     text-align: center;
     font-size:20px;
+    font-family: 'Lora', serif;
 }
 .strisciatacentrale {
     margin-top: 50px;
@@ -431,7 +446,7 @@
     text-align: center;
 }
 .puntini i {
-    color: blue;
+    color: #0049ff;
     font-size:  10px ;
 }
 /* ----------------section88888 */
@@ -447,6 +462,7 @@
 }
 #gets {
      color:white;
+     font-family: 'Lora', serif;
 }
 .pescipic2 {
     text-align: center;
@@ -459,7 +475,7 @@
     width: 250px;
     height: 50px;
     font-size: 17px;
-    color:blue;
+    color:#0049ff;
 
 }
 /* footerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr */
@@ -473,26 +489,29 @@ footer {
 }
 span {
     font-size: 15px;
-    color: white;
+    color: #647392;
 }
-#listagiu {
+.listagiu {
     padding: 0;
     margin: 2px;
     list-style-type: none;
 }
-#listagiu li {
+.listagiu li {
     margin: 0;
     padding: 0;
     width: 400px;
-    color: white;
+    color: #647392;
 }
-#listagiu a {
+.listagiu a {
     display: block;
     padding: 4px;
-    color: white;
+    color: #647392;
 }
-#listagiu i {
+.listagiu i {
     margin:4px;
     height: 20px;
     font-size: 20px;
+}
+.none {
+    color: white;
 }

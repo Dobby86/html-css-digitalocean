@@ -90,7 +90,9 @@
 
 }
 .hambu {
-   margin-bottom: 20px;
+   margin-top: 10px;
+   text-align: right;
+   margin-left: 400px;
 }
 #logo2 {
     height: 40px;
@@ -361,6 +363,15 @@
 }
 
 
+}
+
+@media screen and (min-width:502px) and (max-width: 950px)  {
+
+.hambu {
+   margin-top: 10px;
+   text-align: right;
+   margin-left: 250px;
+ }
 }
 
 .section7 {
